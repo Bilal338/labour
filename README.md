@@ -1,1 +1,1 @@
-"# labour" 
+# labour
