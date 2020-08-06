@@ -63,3 +63,6 @@ android/build
 ios
 android/app/build
 android/.gradle
+
+yarn.lock
+package-lock.json
