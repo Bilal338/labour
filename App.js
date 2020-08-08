@@ -4,12 +4,12 @@ import React from 'react';
 // import PNumber from './src/Screens/pNumber.js';
 import 'react-native-gesture-handler';
 import { NavigationContainer } from '@react-navigation/native';
-import MyStack from './Navigation/appnavigator';
+import MyDrawer from './Navigation/drawerNavigator';
 //comment
 const App = () => {
   return (
    <NavigationContainer>
-     <MyStack/>
+     <MyDrawer/>
     </NavigationContainer>
   );
 };
